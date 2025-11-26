@@ -431,14 +431,6 @@ Tem uma sugestão? Faça um [pull request](https://github.com/seu-usuario/lixeir
 
 ---
 
-## 📞 Contato
-
-- Email: seu-email@example.com
-- GitHub: [@b3rnardo15](https://github.com/b3rnardo15)
-- LinkedIn: [Seu Perfil](https://linkedin.com/in/seu-perfil)
-
----
-
 **Desenvolvido com 💚 por b3rnardo15**
 
 **Última atualização:** 25 de Novembro de 2025
